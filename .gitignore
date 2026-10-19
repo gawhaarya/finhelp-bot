@@ -1,0 +1,13 @@
+# Python environment
+.venv/
+
+# API keys and environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local development files
+.DS_Store
+.pytest_cache/

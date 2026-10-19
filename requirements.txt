@@ -1,0 +1,6 @@
+streamlit
+pypdf
+pinecone
+google-genai
+python-dotenv
+pytest
